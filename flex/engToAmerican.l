@@ -1,0 +1,6 @@
+%%
+
+"colour" { printf("color"); }
+
+
+%%
